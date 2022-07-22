@@ -15,37 +15,39 @@ public class GameManager : MonoBehaviour
     }
     #endregion
 
-    //public SecondStep secondStep;
-    //public byte length;
-    //public byte width;
-    //public FirstStage firstStage;
-    //public byte maximumAmountFuel;
-    //public byte rightAmountFuel;
+    void RemoveBridge()
+    {
 
+    }
 
-    //public void Start()
-    //{
-    //    this.secondStep.length = length;
-    //    this.secondStep.width = width;
-    //    this.firstStage.maximumAmountFuel = maximumAmountFuel;
-    //    this.firstStage.rightAmountFuel = rightAmountFuel;
-    //}
+    void EngineStart()
+    {
 
-    //public void ButtonDetachment()
-    //{
+    }
 
-    //    secondStep.Detachment();
-    //}
+    void IncreaseEnginePower()
+    {
 
-    //public void ButtonTankAndLaunch()
-    //{
-    //    firstStage.TankFilling();
-    //}
+    }
 
-    //public void ButtonRocketLaunch()
-    //{
+    void DisconnectStage1()
+    {
 
+    }
 
-    //}
+    void DisconnectFairing()
+    {
+
+    }
+
+    void DisconnectStage2()
+    {
+
+    }
+
+    void SwitchingLandingLegs()
+    {
+
+    }
 }
 
